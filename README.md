@@ -84,7 +84,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [] 10-3: _Jest - Simulando comportamentos_
 - [] 10-4: _ [Projeto - Montagem e Simulação de Jest] () _
 
-## Desenvolvimento de front-end: hourglass_flowing_sand:
+## Desenvolvimento de front-end: :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - Reação :hourglass_flowing_sand:
 
@@ -140,7 +140,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 - [] 19-1: _ [Projeto - Aplicativo de receita] () _
 
-## Desenvolvimento de back-end: hourglass_flowing_sand:
+## Desenvolvimento de back-end: :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais :hourglass_flowing_sand:
 
@@ -236,7 +236,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 - [] 34-1: _ [Projeto - Trybeer V2] () _
 
-## Ciência da Computação: hourglass_flowing_sand:
+## Ciência da Computação: :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação :hourglass_flowing_sand:
 
