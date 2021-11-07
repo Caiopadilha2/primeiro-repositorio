@@ -1,5 +1,5 @@
 const peça;
-
+// source: https://www.ludijogos.com/multiplayer/xadrez/regras/
 switch (peça.toLowerCase()) {
     case "rei":
         console.log("O rei pode mover-se em todas as direções");
