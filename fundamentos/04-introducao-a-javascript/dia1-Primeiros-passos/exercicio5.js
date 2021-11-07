@@ -7,7 +7,7 @@ const ang3 = 82;
 if ((ang1 + ang2 + ang3 === 180)){
     console.log("Este é um triângulo")
 }
-else if ((ang1 < 0) || (ang2 < 0) || (ang3 < 0)){
+else if ((ang1 < 0) && (ang2 < 0) && (ang3 < 0)){
     console.log("Ângulo não válido")
 }
 else{
