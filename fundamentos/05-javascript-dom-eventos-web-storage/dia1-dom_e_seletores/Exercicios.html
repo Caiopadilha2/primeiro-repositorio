@@ -79,16 +79,31 @@
         }
         changeColorSquare();
 
+        // Exercício 4
 
+        function corrigeTexto() {
+            let corrige = document.getElementsByClassName("title")[0];
+            corrige.innerText = "Exercício 5.1 - JavaScript"
+        }
+        corrigeTexto();
 
+        // Exercício 5
 
+        function maiusculo() {
+            let aumenta = document.getElementsByTagName("p")[0];
+            aumenta.innerText = aumenta.innerText.toUpperCase();
+        }
+        maiusculo();
 
+        // Exercício 6
 
-
-
-
-
-
+        function mostraConteudo() {
+            let paragraphs = document.getElementsByTagName('p');
+            for (let index = 0; index < paragraphs.length; index += 1) {
+            console.log(paragraphs[index].innerHTML);
+        }
+        }
+        mostraConteudo();
 
     </script>
   </body>
