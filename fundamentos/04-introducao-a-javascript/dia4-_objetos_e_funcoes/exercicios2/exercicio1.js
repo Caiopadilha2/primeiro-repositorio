@@ -16,9 +16,9 @@
 
 
 
-function verificaPalindrome(string) {
-    let reverse = string.split("").reverse().join("");
-    if (reverse === string){
+function verificaPalindrome(frase) {
+    let reverse = frase.split("").reverse().join("");
+    if (reverse === frase){
         return true;
     } else {
         return false;
