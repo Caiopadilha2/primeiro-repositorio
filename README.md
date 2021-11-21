@@ -15,25 +15,25 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 ##### Bloco 2: Git e GitHub ✅
 
-- ✅ 2-1: _O que é e para que serve? _
-- ✅ 2-2: _Compreendendo os comandos_
-- ✅ 2-3: _Internet - Compreendendo como funciona_
+- ✅ 2-1: O que é e para que serve? 
+- ✅ 2-2: Compreendendo os comandos
+- ✅ 2-3: Internet - Compreendendo como funciona
 
 ##### Bloco 3: Introdução - HTML e CSS ✅
 
-- ✅ 3-1: _HTML e CSS - Estruturas de página_
-- ✅ 3-2: _HTML e CSS - Primeiros passos com CSS_
-- ✅ 3-3: _HTML e CSS - Seletores e posicionamento_
-- ✅ 3-4: _HTML semântico_
-- ✅ 3-5: _ [Projeto - HTML e CSS] () _
+- ✅ 3-1: HTML e CSS - Estruturas de página
+- ✅ 3-2: HTML e CSS - Primeiros passos com CSS
+- ✅ 3-3: HTML e CSS - Seletores e posicionamento
+- ✅ 3-4: HTML semântico
+- ✅ 3-5: [Projeto - HTML e CSS] 
 
 ##### Bloco 4: Introdução - JavaScript ✅
 
-- ✅ 4-1: _JavaScript - Primeiros passos_
-- ✅ 4-2: _JavaScript - Array e Loop For_
-- ✅ 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- ✅ 4-4: _JavaScript - Objetos e funções_
-- ✅ 4-5: _ [Projeto - Funções Playground] () _
+- ✅ 4-1: JavaScript - Primeiros passos
+- ✅ 4-2: JavaScript - Array e Loop For
+- ✅ 4-3: JavaScript - Lógica de Programação e Algoritmos
+- ✅ 4-4: JavaScript - Objetos e funções
+- ✅ 4-5: [Projeto - Funções Playground] 
 
 ##### Bloco 5: Introdução - JavaScript - Projetos :hourglass_flowing_sand:
 
