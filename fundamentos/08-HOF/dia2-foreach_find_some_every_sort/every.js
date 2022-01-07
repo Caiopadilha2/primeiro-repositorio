@@ -1,5 +1,5 @@
 // 2 - Escreva uma função que, dado um array de pessoas e uma idade mínima, retorne true se todas tiverem
-// a idade maior ou igual a mínima e caso contrário false , use every;
+// a idade maior ou igual a mínima e caso contrário false. Use every;
 
 const people = [
     { name: 'Mateus', age: 18 },
@@ -9,9 +9,7 @@ const people = [
     { name: 'Bruna', age: 19 },
   ];
   
-  const verifyAges = (arr, minimumAge) => {
-    //Adicione seu código aqui
-    return arr.every((person) => person.age >= minimumAge);
-  }
+  const verifyAges = (arr, minimumAge) => arr.every((person) => person.age >= minimumAge);
+
   
   console.log(verifyAges(people, 18));
