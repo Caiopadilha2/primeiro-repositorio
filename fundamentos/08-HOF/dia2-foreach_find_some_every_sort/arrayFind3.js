@@ -11,4 +11,4 @@ const musicas = [
     return musicas.find((musica) => musica.id === '31031685');
   }
   
-  console.log(findMusic('31031685'))
+  console.log(findMusic('31031685'));
