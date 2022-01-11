@@ -41,11 +41,11 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - ✅5-2: _JavaScript - Trabalhando com itens_
 - ✅ 5-3: _JavaScript - Eventos_
 - ✅ 5-4: _JavaScript - Web Storage_
-- ✅ 5-5: _ [Projeto - Gerador de Meme] () _
-- ✅ 5-6: _ [Projeto - Arte com Pixels] () _
-- ✅ 5-7: _ [Projeto - Lista de tarefas] () _
-- ✅ 5-7: _ [Projeto - Adivinhe a cor] () _
-- ✅ 5-7: _ [Projeto - Carta Misteriosa] () _
+-  5-5:    [Projeto - Gerador de Meme]
+- ✅ 5-6:  [Projeto - Arte com Pixels] 
+- ✅ 5-7:  [Projeto - Lista de tarefas] 
+-  5-7:    [Projeto - Adivinhe a cor] 
+-  5-7:    [Projeto - Carta Misteriosa] 
 
 ##### Bloco 6: HTML e CSS avançados ✅
 
@@ -54,14 +54,14 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - ✅ 6-3: _CSS Flexbox - Parte 1_
 - ✅ 6-4: _CSS Flexbox - Parte 2_
 - ✅ 6-5: _CSS Responsive - Mobile First_
-- ✅ 6-6: _ [Projeto - página inicial do Facebook] () _
+- ✅ 6-6: [Projeto - página inicial do Facebook]
 
 ##### Bloco 7: JavaScript ES6 e testes de unidade ✅
 
 - ✅ 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
 - ✅ 7-2: _JavaScript ES6 - Objetos_
 - ✅ 7-3: _Testes de unidade em JavaScript_
-- ✅ 7-4: _ [Projeto - Testes de unidade de JavaScript] () _
+- ✅ 7-4: [Projeto - Testes de unidade de JavaScript]
 
 ##### Bloco 8: JavaScript ES6 ✅
 
@@ -69,7 +69,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - ✅ 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - ✅ 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
 - ✅ 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
-- ✅ 8-5: _ [Projeto - funções do zoológico] () _
+- ✅ 8-5:  [Projeto - funções do zoológico]
 
 ##### Bloco 9: Assincronia e Callbacks :hourglass_flowing_sand:
 
