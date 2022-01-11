@@ -35,41 +35,41 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - ✅ 4-4: JavaScript - Objetos e funções
 - ✅ 4-5: [Projeto - Funções Playground] 
 
-##### Bloco 5: Introdução - JavaScript - Projetos :hourglass_flowing_sand:
+##### Bloco 5: Introdução - JavaScript - Projetos ✅
 
 - ✅ 5-1: _JavaScript - DOM e seletores_
 - ✅5-2: _JavaScript - Trabalhando com itens_
 - ✅ 5-3: _JavaScript - Eventos_
 - ✅ 5-4: _JavaScript - Web Storage_
-- [] 5-5: _ [Projeto - Gerador de Meme] () _
-- [] 5-6: _ [Projeto - Arte com Pixels] () _
-- [] 5-7: _ [Projeto - Lista de tarefas] () _
-- [] 5-7: _ [Projeto - Adivinhe a cor] () _
-- [] 5-7: _ [Projeto - Carta Misteriosa] () _
+- ✅ 5-5: _ [Projeto - Gerador de Meme] () _
+- ✅ 5-6: _ [Projeto - Arte com Pixels] () _
+- ✅ 5-7: _ [Projeto - Lista de tarefas] () _
+- ✅ 5-7: _ [Projeto - Adivinhe a cor] () _
+- ✅ 5-7: _ [Projeto - Carta Misteriosa] () _
 
-##### Bloco 6: HTML e CSS avançados :hourglass_flowing_sand:
+##### Bloco 6: HTML e CSS avançados ✅
 
-- [] 6-1: _HTML e CSS - Formulários_
-- [] 6-2: _Bibliotecas Javascript e estruturas CSS_
-- [] 6-3: _CSS Flexbox - Parte 1_
-- [] 6-4: _CSS Flexbox - Parte 2_
-- [] 6-5: _CSS Responsive - Mobile First_
-- [] 6-6: _ [Projeto - página inicial do Facebook] () _
+- ✅ 6-1: _HTML e CSS - Formulários_
+- ✅ 6-2: _Bibliotecas Javascript e estruturas CSS_
+- ✅ 6-3: _CSS Flexbox - Parte 1_
+- ✅ 6-4: _CSS Flexbox - Parte 2_
+- ✅ 6-5: _CSS Responsive - Mobile First_
+- ✅ 6-6: _ [Projeto - página inicial do Facebook] () _
 
-##### Bloco 7: JavaScript ES6 e testes de unidade :hourglass_flowing_sand:
+##### Bloco 7: JavaScript ES6 e testes de unidade ✅
 
-- [] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
-- [] 7-2: _JavaScript ES6 - Objetos_
-- [] 7-3: _Testes de unidade em JavaScript_
-- [] 7-4: _ [Projeto - Testes de unidade de JavaScript] () _
+- ✅ 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
+- ✅ 7-2: _JavaScript ES6 - Objetos_
+- ✅ 7-3: _Testes de unidade em JavaScript_
+- ✅ 7-4: _ [Projeto - Testes de unidade de JavaScript] () _
 
-##### Bloco 8: JavaScript ES6 :hourglass_flowing_sand:
+##### Bloco 8: JavaScript ES6 ✅
 
-- [] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
-- [] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
-- [] 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
-- [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
-- [] 8-5: _ [Projeto - funções do zoológico] () _
+- ✅ 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
+- ✅ 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
+- ✅ 8-3: _JavaScript ES6 - Funções de ordem superior - reduzir_
+- ✅ 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
+- ✅ 8-5: _ [Projeto - funções do zoológico] () _
 
 ##### Bloco 9: Assincronia e Callbacks :hourglass_flowing_sand:
 
